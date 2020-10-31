@@ -8,4 +8,6 @@ public class HalloweenTest {
 
     //it's fun to drive so far
 
+    //there will be no treat and trick this year
+    //stay home and be safe and wear your mask outside
 }
